@@ -21,4 +21,7 @@ Data cleaning and analysis in Excel
 ## Preview
 <img width="1862" height="880" alt="Screenshot 2025-07-31 003935" src="https://github.com/user-attachments/assets/cda7d03a-e094-438f-b860-5d6b502c21c0" />
 
+## Learning Outcomes                                                                                                                                                                                                                                                                                                                                                                                                                     
+This project helped me clean and analyze stock data, build an interactive dashboard with pivot tables and slicers, and present NIFTY50 insights in a simple, professional way.
+
 
